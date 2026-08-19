@@ -1,0 +1,13 @@
+[submodule "backend-platform"]
+	path = backend-platform
+	url = https://github.com/hirunadissanayake/Cloud-Health-Project-Platform.git
+[submodule "backend-services"]
+	path = backend-services
+	url = https://github.com/hirunadissanayake/Cloud-Health-Project-Services.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/hirunadissanayake/Cloud-Health-Project-Webapp.git
+[submodule "infrastructure"]
+	path = infrastructure
+	url = https://github.com/hirunadissanayake/Cloud-Health-Project-Infrastructure.git
+

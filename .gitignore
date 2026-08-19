@@ -1,0 +1,14 @@
+.DS_Store
+.idea/
+.vscode/
+*.iml
+**/target/
+**/logs/
+**/node_modules/
+.env
+*.log
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform/
+gha-creds-*.json
