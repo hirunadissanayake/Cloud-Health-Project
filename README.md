@@ -9,7 +9,7 @@ This project is the final project for **ITS 2130 - Enterprise Cloud Architecture
 | Project detail | Value |
 |---|---|
 | Student | Hiruna Dissanayake |
-| Student number | `TODO` |
+| Student number | `24171104` |
 | Slack handle | `TODO` |
 | Google Cloud project | `cloud-health-506015-hiruna` |
 | Default region | `asia-south1` |
